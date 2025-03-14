@@ -1,5 +1,5 @@
-# subtool
-subnetting tool to help students
+# subtool subnetting tool to help students
+###
 import tkinter as tk
 from tkinter import ttk, messagebox
 import ipaddress
